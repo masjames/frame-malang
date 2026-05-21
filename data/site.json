@@ -1,0 +1,11 @@
+{
+  "name": "Frame Malang",
+  "domain": "framemalang.com",
+  "description": "Media lokal dan komunitas kreatif Malang.",
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Artikel", "href": "/artikel" },
+    { "label": "Membership", "href": "/membership" },
+    { "label": "Kontak", "href": "/kontak" }
+  ]
+}
